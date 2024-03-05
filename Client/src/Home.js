@@ -30,13 +30,13 @@ function Home() {
       <Container fluid style={{ background: "rgba(189,195,199, 0.2)", height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }} className="shadow">
 
           <Row style={{width: "30%", height:"20%"}} className='justify-content-center align-items-center'>
-            <Button  variant="outline-light" href="https://aido5.godaddysites.com/#1928cf5d-afee-416b-8d6a-c8771aedec22" className='text-dark mx-0'><i className="bi bi-telephone"></i></Button>
+            <Button  variant="outline-light" href="https://goigiup.com/" className='text-dark mx-0'><i className="bi bi-telephone"></i></Button>
           </Row>
 
       </Container>
       {/* The rest of your components */}
       <Row className='col-md-1 col-sm-1 p-1 d-flex position-fixed top-50 start-0 mx-2 gap-2'>
-        <Button variant="outline-light" href="https://aido5.godaddysites.com/#1928cf5d-afee-416b-8d6a-c8771aedec22" className='text-dark shadow'><i className="bi bi-telephone"></i></Button>
+        <Button variant="outline-light" href="https://goigiup.com/" className='text-dark shadow'><i className="bi bi-telephone"></i></Button>
       </Row>
       <PeopleCount />
       <Container fluid className="d-flex justify-content-center align-items-center flex-wrap">
